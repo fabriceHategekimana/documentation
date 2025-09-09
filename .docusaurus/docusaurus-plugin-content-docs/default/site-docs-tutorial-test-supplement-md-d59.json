@@ -1,0 +1,20 @@
+{
+  "id": "tutorial-test/supplément",
+  "title": "supplément",
+  "description": "",
+  "source": "@site/docs/tutorial-test/supplément.md",
+  "sourceDirName": "tutorial-test",
+  "slug": "/tutorial-test/supplément",
+  "permalink": "/docs/tutorial-test/supplément",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-test/supplément.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello world",
+    "permalink": "/docs/tutorial-test/example"
+  }
+}

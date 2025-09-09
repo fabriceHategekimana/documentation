@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-test/example",
+  "title": "Hello world",
+  "description": "Comment ça va?",
+  "source": "@site/docs/tutorial-test/example.md",
+  "sourceDirName": "tutorial-test",
+  "slug": "/tutorial-test/example",
+  "permalink": "/docs/tutorial-test/example",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-test/example.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Test",
+    "permalink": "/docs/category/tutorial---test"
+  },
+  "next": {
+    "title": "supplément",
+    "permalink": "/docs/tutorial-test/supplément"
+  }
+}
